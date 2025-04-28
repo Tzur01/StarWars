@@ -2,7 +2,7 @@
 
 A fast-paced space shooter game that runs entirely in your terminal. Fly your spaceship, shoot down enemies, collect power-ups, and survive as long as possible in this ASCII-art space adventure!
 
-![Game Screenshot](screenshot.png)
+
 
 ## Features
 
