@@ -21,7 +21,7 @@ A fast-paced space shooter game that runs entirely in your terminal. Fly your sp
 
 1. Clone this repository:
    ```
-   git clone https://github.com/Tzur01/starwars_game.git
+   [git clone https://github.com/Tzur01/starwars_game.git](https://github.com/Tzur01/StarWars.git)
    cd starwars_game
    ```
 
